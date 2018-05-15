@@ -1,0 +1,9 @@
+Hello 
+this is my first file for practising git
+My team for today:
+Dhoni
+Yuvraj
+Kohli
+Sharma
+Dhawan
+
